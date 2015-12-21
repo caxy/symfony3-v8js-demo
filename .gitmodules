@@ -1,0 +1,3 @@
+[submodule "build/HungryGames"]
+	path = build/HungryGames
+	url = https://github.com/caxy/HungryGames.git
